@@ -34,7 +34,6 @@
 ***
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/yannick-sendrey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a target="_blank" href="mailto:yannicksendrey@gmail.com?subject=Hello%20Yannick,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ***
