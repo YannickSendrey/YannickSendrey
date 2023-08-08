@@ -36,7 +36,7 @@
 ***
 
 <ins>Français</ins>
-<h1 align="center" font-weight="bold"> Bonjour à tous ! ✨ </h1>
+<h1 align="center" font-weight="bold"> Bonjour à tous ! ✨ </h1> 
 
 <p align="center"><samp>Je suis Yannick, j'ai 25 ans. Originaire de Bordeaux, je suis désormais à Montpellier. Je suis actuellement en pleine reconversion professionnelle avec pour but de devenir développeur web, j'ai jusqu'alors évolué dans le monde de l'assurance. <br/><br/> <em>Je ne vous ferais pas l'affront de vous traduire les logos de langages web..</em></samp></p>
 <h2 align="center"> La suite à court/moyen terme... 💻</h2>
