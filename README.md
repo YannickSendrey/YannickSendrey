@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><br/> 
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;    
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
  
@@ -26,7 +26,7 @@
 <p align="center">
   <samp>Currently following a 6 months intensive training to validate a french web developper professional title, I will be looking as soon as 4th quarter 2023 for a cooperative training course also in France, to pursue my studies while finally entering the world of professional web development. 
   I will be working in the following months on several small projects to hone my skills, which I will be sharing on my github 🚀.</samp>
-</p>
+</p> 
 
 ***
 <p align="center">
@@ -36,7 +36,7 @@
 ***
 
 <ins>Français</ins>
-<h1 align="center" font-weight="bold"> Bonjour à tous ! ✨ </h1> 
+<h1 align="center" font-weight="bold"> Bonjour à tous ! 👋 </h1> 
 
 <p align="center"><samp>Je suis Yannick, j'ai 25 ans. Originaire de Bordeaux, je suis désormais à Montpellier. Je suis actuellement en pleine reconversion professionnelle avec pour but de devenir développeur web, j'ai jusqu'alors évolué dans le monde de l'assurance. <br/><br/> <em>Je ne vous ferais pas l'affront de vous traduire les logos de langages web..</em></samp></p>
 <h2 align="center"> La suite à court/moyen terme... 💻</h2>
