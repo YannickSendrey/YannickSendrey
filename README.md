@@ -24,7 +24,7 @@
 
 <h2 align="center">Short/mid term plans 💻</h2>
 <p align="center">
-  <samp>Currently following a 6 months intensive training to validate a french web developper professional title, I will be looking as soon as 4th quarter 2023 for a cooperative training course also in France, to pursue my studies while finally entering the world of professional web development. 
+  <samp>Currently following a 6 months intensive training to validate a french web developper professional title, I will be looking as soon as January 2024 for a cooperative training course also in France, to pursue my studies while finally entering the world of professional web development. 
   I will be working in the following months on several small projects to hone my skills, which I will be sharing on my github 🚀.</samp>
 </p> 
 
@@ -41,6 +41,6 @@
 <p align="center"><samp>Je suis Yannick, j'ai 25 ans. Originaire de Bordeaux, je suis désormais à Montpellier. Je suis actuellement en pleine reconversion professionnelle avec pour but de devenir développeur web, j'ai jusqu'alors évolué dans le monde de l'assurance. <br/><br/> <em>Je ne vous ferais pas l'affront de vous traduire les logos de langages web..</em></samp></p>
 <h2 align="center"> La suite à court/moyen terme... 💻</h2>
 <p align="center">
-  <samp>Je réalise actuellement une formation intensive en télé-présentiel dans le but d'obtenir le titre professionnel DWWM. Je compte suite à cela poursuivre sur le titre de Concepteur Developpeur d'Applications en alternance, je suis pour cela à la recherche d'une entreprise à partir de fin 2023/début 2024. Je vais réaliser en parallèle de ma formation des projets de tailles variés pour poursuivre mon apprentissage continu et parfaire mes compétences, que je partagerai sur mon github 🎯.</samp>
+  <samp>Je réalise actuellement une formation intensive en télé-présentiel dans le but d'obtenir le titre professionnel DWWM. Je compte suite à cela poursuivre sur le titre de Concepteur Developpeur d'Applications en alternance, je suis pour cela à la recherche d'une entreprise à partir de Janvier 2024. Je vais réaliser en parallèle de ma formation des projets de tailles variés pour poursuivre mon apprentissage continu et parfaire mes compétences, que je partagerai sur mon github 🎯.</samp>
 </p>
 
