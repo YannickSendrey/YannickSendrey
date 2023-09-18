@@ -32,7 +32,7 @@
 ***
 <p align="center">
   <a href="https://www.linkedin.com/in/yannick-sendrey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://yannick-dev.notion.site/yannick-dev/219d6fbfb0924c8a8c61bd481a5e9126?v=2c4426df78d742d89dc22c9dd4092d5c&p=27149d42b1b34ef1aba7974238272c20&pm=s"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://yannicksendrey-dev.notion.site/219d6fbfb0924c8a8c61bd481a5e9126?v=2c4426df78d742d89dc22c9dd4092d5c"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
 
 ***
