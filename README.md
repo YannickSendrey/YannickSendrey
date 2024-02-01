@@ -38,12 +38,4 @@
 
 ***
 
-<ins>Français</ins>
-<h1 align="center" font-weight="bold"> Bonjour à tous ! 👋 </h1> 
-
-<p align="center"><samp>Je suis Yannick, j'ai 26 ans. Originaire de Bordeaux, je suis désormais à Montpellier. Je suis actuellement en pleine reconversion professionnelle avec pour but de devenir développeur web, j'ai jusqu'alors évolué dans le monde de l'assurance. <br/><br/> <em>Je ne vous ferais pas l'affront de vous traduire les logos de langages web..</em></samp></p>
-<h2 align="center"> La suite à court/moyen terme... 💻</h2>
-<p align="center">
-  <samp>J'ai réalisé une formation intensive en télé-présentiel dans le but d'obtenir le titre professionnel DWWM. Je poursuis désormais avec une formation en alternance visant le titre de Concepteur Developpeur d'Applications. Je vais réaliser en parallèle de ma formation des projets de tailles variés pour poursuivre mon apprentissage continu et parfaire mes compétences, que je partagerai sur mon github 🎯.</samp>
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannickSendrey)](https://github.com/anuraghazra/github-readme-stats)
